@@ -1,0 +1,20 @@
+{
+  "name": "pack-for-unity",
+  "displayName": "Pack for Unity",
+  "description": "pack for unity",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "lionize.unity-snippets-modified",
+    "kleber-swf.unity-code-snippets",
+    "visualstudiotoolsforunity.vstuc",
+    "ms-dotnettools.csdevkit",
+    "ms-dotnettools.csharp",
+    "ms-dotnettools.vscode-dotnet-runtime"
+  ]
+}

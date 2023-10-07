@@ -1,0 +1,20 @@
+{
+  "name": "pack-for-flutter",
+  "displayName": "Pack for Flutter",
+  "description": "pack for Flutter",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Dart-Code.dart-code",
+    "Dart-Code.flutter",
+    "RodrigoRahman.flutter-dart-utils",
+    "alexisvt.flutter-snippets",
+    "get-snippets.get-snippets",
+    "hirantha.json-to-dart"
+  ]
+}
